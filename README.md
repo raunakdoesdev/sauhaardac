@@ -10,3 +10,5 @@
 - 📫 Contact: sauhaarda@mit.edu
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm obsessed with Buddhist meditation!
+
+[![](https://github-readme-stats.vercel.app/api?username=sauhaardac&count_private=true&hide=stars&show_icons=true&theme=cobalt)](https://sauhaarda.me)
