@@ -1,6 +1,6 @@
 # Hi there 👋
 ### My Current Projects 🔍:
-- 💪🏽 Research with the Torralba lab on making adversarial examples more universal.
+- 💪🏽 Research with the Madry lab on the robustness of ML systems
 - 🚗 Low-latency object detection for autnomous driving in MIT's Driverless Racing team
 - 🌎 Predicting landslides from LIDAR data with MIT Lincoln Labs and the Environmental Sustainability Initiative
 - 🎵 Leading a team at CMU to improve the state-of-the-art in raga prediction from Indian music
